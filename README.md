@@ -3,8 +3,8 @@
 <br />
 <b>Automatic Number Plate Recognition using Tensorflow and EasyOCR | Python</b>
 
-<br />
-<b><p>This set of Notebooks provides a complete set of code to be able to train and leverage your own custom object detection model using the Tensorflow Object Detection API.</b>
+<br /><br/><br/>
+<p>This set of Notebooks provides a complete set of code to be able to train and leverage your own custom object detection model using the Tensorflow Object Detection API.
 
 <br />
 <b>Step 1.</b> Clone this repository: https://github.com/nicknochnack/TFODCourse
